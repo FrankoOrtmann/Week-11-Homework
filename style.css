@@ -8,8 +8,11 @@ body {
 .teal {
     color:rgb(48, 221, 221);
 }
-.small-img {
-    display: inline-block
+
+.resized { 
+    width:100px;
+    height:100px;
+    padding:0px;
 }
 
 
